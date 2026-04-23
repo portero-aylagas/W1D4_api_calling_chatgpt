@@ -1,0 +1,7 @@
+datasets
+requests
+Pillow
+pandas
+python-dotenv
+openai
+pydantic
