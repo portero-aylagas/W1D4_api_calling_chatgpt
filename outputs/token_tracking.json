@@ -1,0 +1,1154 @@
+[
+    {
+        "timestamp_utc": "2026-04-26T19:54:05.204281+00:00",
+        "model": "gpt-5-mini",
+        "task": "product_listing_generation",
+        "input_tokens": 293,
+        "output_tokens": 1063,
+        "total_tokens": 1356
+    },
+    {
+        "timestamp_utc": "2026-04-26T19:54:13.461824+00:00",
+        "model": "gpt-5-mini",
+        "task": "product_listing_generation",
+        "input_tokens": 292,
+        "output_tokens": 883,
+        "total_tokens": 1175
+    },
+    {
+        "timestamp_utc": "2026-04-26T19:54:25.305866+00:00",
+        "model": "gpt-5-mini",
+        "task": "product_listing_generation",
+        "input_tokens": 289,
+        "output_tokens": 1347,
+        "total_tokens": 1636
+    },
+    {
+        "timestamp_utc": "2026-04-26T19:54:36.305503+00:00",
+        "model": "gpt-5-mini",
+        "task": "product_listing_generation",
+        "input_tokens": 294,
+        "output_tokens": 1007,
+        "total_tokens": 1301
+    },
+    {
+        "timestamp_utc": "2026-04-26T19:54:46.854361+00:00",
+        "model": "gpt-5-mini",
+        "task": "product_listing_generation",
+        "input_tokens": 292,
+        "output_tokens": 1216,
+        "total_tokens": 1508
+    },
+    {
+        "timestamp_utc": "2026-04-26T21:21:50.833876+00:00",
+        "model": "gpt-5-mini",
+        "task": "product_listing_generation",
+        "input_tokens": 293,
+        "output_tokens": 930,
+        "total_tokens": 1223
+    },
+    {
+        "timestamp_utc": "2026-04-26T21:22:04.661609+00:00",
+        "model": "gpt-5-mini",
+        "task": "product_listing_generation",
+        "input_tokens": 292,
+        "output_tokens": 1089,
+        "total_tokens": 1381
+    },
+    {
+        "timestamp_utc": "2026-04-26T21:22:15.451176+00:00",
+        "model": "gpt-5-mini",
+        "task": "product_listing_generation",
+        "input_tokens": 289,
+        "output_tokens": 1024,
+        "total_tokens": 1313
+    },
+    {
+        "timestamp_utc": "2026-04-26T21:22:29.810371+00:00",
+        "model": "gpt-5-mini",
+        "task": "product_listing_generation",
+        "input_tokens": 294,
+        "output_tokens": 1372,
+        "total_tokens": 1666
+    },
+    {
+        "timestamp_utc": "2026-04-26T21:22:40.764213+00:00",
+        "model": "gpt-5-mini",
+        "task": "product_listing_generation",
+        "input_tokens": 292,
+        "output_tokens": 1068,
+        "total_tokens": 1360
+    },
+    {
+        "timestamp_utc": "2026-04-26T22:31:29.699655+00:00",
+        "model": "gpt-5-mini",
+        "task": "product_listing_generation",
+        "input_tokens": 293,
+        "output_tokens": 1016,
+        "total_tokens": 1309
+    },
+    {
+        "timestamp_utc": "2026-04-26T22:31:37.746997+00:00",
+        "model": "gpt-5-mini",
+        "task": "product_listing_generation",
+        "input_tokens": 292,
+        "output_tokens": 1161,
+        "total_tokens": 1453
+    },
+    {
+        "timestamp_utc": "2026-04-26T22:31:48.956620+00:00",
+        "model": "gpt-5-mini",
+        "task": "product_listing_generation",
+        "input_tokens": 289,
+        "output_tokens": 1070,
+        "total_tokens": 1359
+    },
+    {
+        "timestamp_utc": "2026-04-26T22:31:59.818052+00:00",
+        "model": "gpt-5-mini",
+        "task": "product_listing_generation",
+        "input_tokens": 294,
+        "output_tokens": 1154,
+        "total_tokens": 1448
+    },
+    {
+        "timestamp_utc": "2026-04-26T22:32:13.424036+00:00",
+        "model": "gpt-5-mini",
+        "task": "product_listing_generation",
+        "input_tokens": 292,
+        "output_tokens": 991,
+        "total_tokens": 1283
+    },
+    {
+        "timestamp_utc": "2026-04-27T07:26:48.782092+00:00",
+        "model": "gpt-5-mini",
+        "task": "product_listing_generation",
+        "input_tokens": 293,
+        "output_tokens": 1441,
+        "total_tokens": 1734
+    },
+    {
+        "timestamp_utc": "2026-04-27T07:27:02.661951+00:00",
+        "model": "gpt-5-mini",
+        "task": "product_listing_generation",
+        "input_tokens": 293,
+        "output_tokens": 1089,
+        "total_tokens": 1382
+    },
+    {
+        "timestamp_utc": "2026-04-27T07:27:50.478893+00:00",
+        "model": "gpt-5-mini",
+        "task": "product_listing_generation",
+        "input_tokens": 293,
+        "output_tokens": 998,
+        "total_tokens": 1291
+    },
+    {
+        "timestamp_utc": "2026-04-27T07:28:02.278019+00:00",
+        "model": "gpt-5-mini",
+        "task": "product_listing_generation",
+        "input_tokens": 293,
+        "output_tokens": 1165,
+        "total_tokens": 1458
+    },
+    {
+        "timestamp_utc": "2026-04-27T07:28:29.398838+00:00",
+        "model": "gpt-5-mini",
+        "task": "product_listing_generation",
+        "input_tokens": 292,
+        "output_tokens": 1485,
+        "total_tokens": 1777
+    },
+    {
+        "timestamp_utc": "2026-04-27T07:28:48.396286+00:00",
+        "model": "gpt-5-mini",
+        "task": "product_listing_generation",
+        "input_tokens": 289,
+        "output_tokens": 1327,
+        "total_tokens": 1616
+    },
+    {
+        "timestamp_utc": "2026-04-27T07:29:03.629966+00:00",
+        "model": "gpt-5-mini",
+        "task": "product_listing_generation",
+        "input_tokens": 294,
+        "output_tokens": 1101,
+        "total_tokens": 1395
+    },
+    {
+        "timestamp_utc": "2026-04-27T07:29:19.061940+00:00",
+        "model": "gpt-5-mini",
+        "task": "product_listing_generation",
+        "input_tokens": 294,
+        "output_tokens": 1287,
+        "total_tokens": 1581
+    },
+    {
+        "timestamp_utc": "2026-04-27T07:29:34.714846+00:00",
+        "model": "gpt-5-mini",
+        "task": "product_listing_generation",
+        "input_tokens": 294,
+        "output_tokens": 1409,
+        "total_tokens": 1703
+    },
+    {
+        "timestamp_utc": "2026-04-27T07:29:46.902594+00:00",
+        "model": "gpt-5-mini",
+        "task": "product_listing_generation",
+        "input_tokens": 292,
+        "output_tokens": 930,
+        "total_tokens": 1222
+    },
+    {
+        "timestamp_utc": "2026-04-27T07:30:03.120265+00:00",
+        "model": "gpt-5-mini",
+        "task": "product_listing_generation",
+        "input_tokens": 292,
+        "output_tokens": 1004,
+        "total_tokens": 1296
+    },
+    {
+        "timestamp_utc": "2026-04-27T07:30:23.125580+00:00",
+        "model": "gpt-5-mini",
+        "task": "product_listing_generation",
+        "input_tokens": 292,
+        "output_tokens": 1161,
+        "total_tokens": 1453
+    },
+    {
+        "timestamp_utc": "2026-04-27T07:30:40.377621+00:00",
+        "model": "gpt-5-mini",
+        "task": "product_listing_generation",
+        "input_tokens": 294,
+        "output_tokens": 1146,
+        "total_tokens": 1440
+    },
+    {
+        "timestamp_utc": "2026-04-27T07:30:54.281527+00:00",
+        "model": "gpt-5-mini",
+        "task": "product_listing_generation",
+        "input_tokens": 294,
+        "output_tokens": 1091,
+        "total_tokens": 1385
+    },
+    {
+        "timestamp_utc": "2026-04-27T07:31:08.699563+00:00",
+        "model": "gpt-5-mini",
+        "task": "product_listing_generation",
+        "input_tokens": 294,
+        "output_tokens": 1073,
+        "total_tokens": 1367
+    },
+    {
+        "timestamp_utc": "2026-04-27T07:31:24.876142+00:00",
+        "model": "gpt-5-mini",
+        "task": "product_listing_generation",
+        "input_tokens": 294,
+        "output_tokens": 1427,
+        "total_tokens": 1721
+    },
+    {
+        "timestamp_utc": "2026-04-27T07:31:37.923480+00:00",
+        "model": "gpt-5-mini",
+        "task": "product_listing_generation",
+        "input_tokens": 293,
+        "output_tokens": 1265,
+        "total_tokens": 1558
+    },
+    {
+        "timestamp_utc": "2026-04-27T07:31:50.925745+00:00",
+        "model": "gpt-5-mini",
+        "task": "product_listing_generation",
+        "input_tokens": 293,
+        "output_tokens": 1228,
+        "total_tokens": 1521
+    },
+    {
+        "timestamp_utc": "2026-04-27T07:32:01.706264+00:00",
+        "model": "gpt-5-mini",
+        "task": "product_listing_generation",
+        "input_tokens": 293,
+        "output_tokens": 1064,
+        "total_tokens": 1357
+    },
+    {
+        "timestamp_utc": "2026-04-27T07:32:17.050494+00:00",
+        "model": "gpt-5-mini",
+        "task": "product_listing_generation",
+        "input_tokens": 293,
+        "output_tokens": 1487,
+        "total_tokens": 1780
+    },
+    {
+        "timestamp_utc": "2026-04-27T07:32:32.653460+00:00",
+        "model": "gpt-5-mini",
+        "task": "product_listing_generation",
+        "input_tokens": 290,
+        "output_tokens": 1776,
+        "total_tokens": 2066
+    },
+    {
+        "timestamp_utc": "2026-04-27T07:32:42.384567+00:00",
+        "model": "gpt-5-mini",
+        "task": "product_listing_generation",
+        "input_tokens": 290,
+        "output_tokens": 1164,
+        "total_tokens": 1454
+    },
+    {
+        "timestamp_utc": "2026-04-27T07:32:57.053617+00:00",
+        "model": "gpt-5-mini",
+        "task": "product_listing_generation",
+        "input_tokens": 290,
+        "output_tokens": 1577,
+        "total_tokens": 1867
+    },
+    {
+        "timestamp_utc": "2026-04-27T07:33:06.939841+00:00",
+        "model": "gpt-5-mini",
+        "task": "product_listing_generation",
+        "input_tokens": 296,
+        "output_tokens": 1157,
+        "total_tokens": 1453
+    },
+    {
+        "timestamp_utc": "2026-04-27T07:33:17.452850+00:00",
+        "model": "gpt-5-mini",
+        "task": "product_listing_generation",
+        "input_tokens": 296,
+        "output_tokens": 1079,
+        "total_tokens": 1375
+    },
+    {
+        "timestamp_utc": "2026-04-27T07:33:30.995419+00:00",
+        "model": "gpt-5-mini",
+        "task": "product_listing_generation",
+        "input_tokens": 296,
+        "output_tokens": 1453,
+        "total_tokens": 1749
+    },
+    {
+        "timestamp_utc": "2026-04-27T07:33:44.791488+00:00",
+        "model": "gpt-5-mini",
+        "task": "product_listing_generation",
+        "input_tokens": 297,
+        "output_tokens": 1206,
+        "total_tokens": 1503
+    },
+    {
+        "timestamp_utc": "2026-04-27T07:33:57.826004+00:00",
+        "model": "gpt-5-mini",
+        "task": "product_listing_generation",
+        "input_tokens": 297,
+        "output_tokens": 1235,
+        "total_tokens": 1532
+    },
+    {
+        "timestamp_utc": "2026-04-27T07:34:09.103298+00:00",
+        "model": "gpt-5-mini",
+        "task": "product_listing_generation",
+        "input_tokens": 297,
+        "output_tokens": 1214,
+        "total_tokens": 1511
+    },
+    {
+        "timestamp_utc": "2026-04-27T07:34:21.473400+00:00",
+        "model": "gpt-5-mini",
+        "task": "product_listing_generation",
+        "input_tokens": 298,
+        "output_tokens": 1147,
+        "total_tokens": 1445
+    },
+    {
+        "timestamp_utc": "2026-04-27T07:34:31.089721+00:00",
+        "model": "gpt-5-mini",
+        "task": "product_listing_generation",
+        "input_tokens": 291,
+        "output_tokens": 994,
+        "total_tokens": 1285
+    },
+    {
+        "timestamp_utc": "2026-04-27T07:34:47.683890+00:00",
+        "model": "gpt-5-mini",
+        "task": "product_listing_generation",
+        "input_tokens": 291,
+        "output_tokens": 1430,
+        "total_tokens": 1721
+    },
+    {
+        "timestamp_utc": "2026-04-27T07:35:00.150224+00:00",
+        "model": "gpt-5-mini",
+        "task": "product_listing_generation",
+        "input_tokens": 291,
+        "output_tokens": 1154,
+        "total_tokens": 1445
+    },
+    {
+        "timestamp_utc": "2026-04-27T07:35:12.238906+00:00",
+        "model": "gpt-5-mini",
+        "task": "product_listing_generation",
+        "input_tokens": 299,
+        "output_tokens": 1121,
+        "total_tokens": 1420
+    },
+    {
+        "timestamp_utc": "2026-04-27T07:35:27.893198+00:00",
+        "model": "gpt-5-mini",
+        "task": "product_listing_generation",
+        "input_tokens": 299,
+        "output_tokens": 1361,
+        "total_tokens": 1660
+    },
+    {
+        "timestamp_utc": "2026-04-27T07:35:39.204182+00:00",
+        "model": "gpt-5-mini",
+        "task": "product_listing_generation",
+        "input_tokens": 299,
+        "output_tokens": 1024,
+        "total_tokens": 1323
+    },
+    {
+        "timestamp_utc": "2026-04-27T07:35:50.593210+00:00",
+        "model": "gpt-5-mini",
+        "task": "product_listing_generation",
+        "input_tokens": 293,
+        "output_tokens": 1055,
+        "total_tokens": 1348
+    },
+    {
+        "timestamp_utc": "2026-04-27T07:36:13.700605+00:00",
+        "model": "gpt-5-mini",
+        "task": "product_listing_generation",
+        "input_tokens": 295,
+        "output_tokens": 2133,
+        "total_tokens": 2428
+    },
+    {
+        "timestamp_utc": "2026-04-27T07:36:29.797996+00:00",
+        "model": "gpt-5-mini",
+        "task": "product_listing_generation",
+        "input_tokens": 295,
+        "output_tokens": 1442,
+        "total_tokens": 1737
+    },
+    {
+        "timestamp_utc": "2026-04-27T07:36:41.772646+00:00",
+        "model": "gpt-5-mini",
+        "task": "product_listing_generation",
+        "input_tokens": 295,
+        "output_tokens": 1109,
+        "total_tokens": 1404
+    },
+    {
+        "timestamp_utc": "2026-04-27T07:36:52.411869+00:00",
+        "model": "gpt-5-mini",
+        "task": "product_listing_generation",
+        "input_tokens": 295,
+        "output_tokens": 1112,
+        "total_tokens": 1407
+    },
+    {
+        "timestamp_utc": "2026-04-27T07:37:07.177573+00:00",
+        "model": "gpt-5-mini",
+        "task": "product_listing_generation",
+        "input_tokens": 296,
+        "output_tokens": 1701,
+        "total_tokens": 1997
+    },
+    {
+        "timestamp_utc": "2026-04-27T07:37:15.969833+00:00",
+        "model": "gpt-5-mini",
+        "task": "product_listing_generation",
+        "input_tokens": 296,
+        "output_tokens": 1030,
+        "total_tokens": 1326
+    },
+    {
+        "timestamp_utc": "2026-04-27T07:37:24.213186+00:00",
+        "model": "gpt-5-mini",
+        "task": "product_listing_generation",
+        "input_tokens": 296,
+        "output_tokens": 985,
+        "total_tokens": 1281
+    },
+    {
+        "timestamp_utc": "2026-04-27T07:37:35.681128+00:00",
+        "model": "gpt-5-mini",
+        "task": "product_listing_generation",
+        "input_tokens": 293,
+        "output_tokens": 1012,
+        "total_tokens": 1305
+    },
+    {
+        "timestamp_utc": "2026-04-27T07:37:46.506148+00:00",
+        "model": "gpt-5-mini",
+        "task": "product_listing_generation",
+        "input_tokens": 293,
+        "output_tokens": 1174,
+        "total_tokens": 1467
+    },
+    {
+        "timestamp_utc": "2026-04-27T07:38:03.765744+00:00",
+        "model": "gpt-5-mini",
+        "task": "product_listing_generation",
+        "input_tokens": 303,
+        "output_tokens": 1127,
+        "total_tokens": 1430
+    },
+    {
+        "timestamp_utc": "2026-04-27T07:38:19.615890+00:00",
+        "model": "gpt-5-mini",
+        "task": "product_listing_generation",
+        "input_tokens": 303,
+        "output_tokens": 1954,
+        "total_tokens": 2257
+    },
+    {
+        "timestamp_utc": "2026-04-27T07:38:31.595938+00:00",
+        "model": "gpt-5-mini",
+        "task": "product_listing_generation",
+        "input_tokens": 303,
+        "output_tokens": 1427,
+        "total_tokens": 1730
+    },
+    {
+        "timestamp_utc": "2026-04-27T07:38:45.871703+00:00",
+        "model": "gpt-5-mini",
+        "task": "product_listing_generation",
+        "input_tokens": 298,
+        "output_tokens": 1378,
+        "total_tokens": 1676
+    },
+    {
+        "timestamp_utc": "2026-04-27T07:38:59.138550+00:00",
+        "model": "gpt-5-mini",
+        "task": "product_listing_generation",
+        "input_tokens": 297,
+        "output_tokens": 1593,
+        "total_tokens": 1890
+    },
+    {
+        "timestamp_utc": "2026-04-27T07:39:08.673053+00:00",
+        "model": "gpt-5-mini",
+        "task": "product_listing_generation",
+        "input_tokens": 298,
+        "output_tokens": 1029,
+        "total_tokens": 1327
+    },
+    {
+        "timestamp_utc": "2026-04-27T07:39:20.639274+00:00",
+        "model": "gpt-5-mini",
+        "task": "product_listing_generation",
+        "input_tokens": 298,
+        "output_tokens": 1405,
+        "total_tokens": 1703
+    },
+    {
+        "timestamp_utc": "2026-04-27T07:39:31.271179+00:00",
+        "model": "gpt-5-mini",
+        "task": "product_listing_generation",
+        "input_tokens": 298,
+        "output_tokens": 1141,
+        "total_tokens": 1439
+    },
+    {
+        "timestamp_utc": "2026-04-27T07:39:43.879301+00:00",
+        "model": "gpt-5-mini",
+        "task": "product_listing_generation",
+        "input_tokens": 295,
+        "output_tokens": 1342,
+        "total_tokens": 1637
+    },
+    {
+        "timestamp_utc": "2026-04-27T07:39:56.467454+00:00",
+        "model": "gpt-5-mini",
+        "task": "product_listing_generation",
+        "input_tokens": 295,
+        "output_tokens": 1406,
+        "total_tokens": 1701
+    },
+    {
+        "timestamp_utc": "2026-04-27T07:40:08.271600+00:00",
+        "model": "gpt-5-mini",
+        "task": "product_listing_generation",
+        "input_tokens": 295,
+        "output_tokens": 1482,
+        "total_tokens": 1777
+    },
+    {
+        "timestamp_utc": "2026-04-27T07:40:23.383339+00:00",
+        "model": "gpt-5-mini",
+        "task": "product_listing_generation",
+        "input_tokens": 294,
+        "output_tokens": 1850,
+        "total_tokens": 2144
+    },
+    {
+        "timestamp_utc": "2026-04-27T07:40:42.849352+00:00",
+        "model": "gpt-5-mini",
+        "task": "product_listing_generation",
+        "input_tokens": 292,
+        "output_tokens": 1246,
+        "total_tokens": 1538
+    },
+    {
+        "timestamp_utc": "2026-04-27T07:40:53.477813+00:00",
+        "model": "gpt-5-mini",
+        "task": "product_listing_generation",
+        "input_tokens": 292,
+        "output_tokens": 1182,
+        "total_tokens": 1474
+    },
+    {
+        "timestamp_utc": "2026-04-27T07:41:05.869565+00:00",
+        "model": "gpt-5-mini",
+        "task": "product_listing_generation",
+        "input_tokens": 292,
+        "output_tokens": 1075,
+        "total_tokens": 1367
+    },
+    {
+        "timestamp_utc": "2026-04-27T07:41:15.162078+00:00",
+        "model": "gpt-5-mini",
+        "task": "product_listing_generation",
+        "input_tokens": 297,
+        "output_tokens": 1249,
+        "total_tokens": 1546
+    },
+    {
+        "timestamp_utc": "2026-04-27T07:41:24.575122+00:00",
+        "model": "gpt-5-mini",
+        "task": "product_listing_generation",
+        "input_tokens": 297,
+        "output_tokens": 1140,
+        "total_tokens": 1437
+    },
+    {
+        "timestamp_utc": "2026-04-27T07:41:32.475864+00:00",
+        "model": "gpt-5-mini",
+        "task": "product_listing_generation",
+        "input_tokens": 297,
+        "output_tokens": 1049,
+        "total_tokens": 1346
+    },
+    {
+        "timestamp_utc": "2026-04-27T07:41:41.350148+00:00",
+        "model": "gpt-5-mini",
+        "task": "product_listing_generation",
+        "input_tokens": 299,
+        "output_tokens": 885,
+        "total_tokens": 1184
+    },
+    {
+        "timestamp_utc": "2026-04-27T07:41:51.660893+00:00",
+        "model": "gpt-5-mini",
+        "task": "product_listing_generation",
+        "input_tokens": 299,
+        "output_tokens": 1031,
+        "total_tokens": 1330
+    },
+    {
+        "timestamp_utc": "2026-04-27T07:42:03.215201+00:00",
+        "model": "gpt-5-mini",
+        "task": "product_listing_generation",
+        "input_tokens": 292,
+        "output_tokens": 1193,
+        "total_tokens": 1485
+    },
+    {
+        "timestamp_utc": "2026-04-27T07:42:11.471225+00:00",
+        "model": "gpt-5-mini",
+        "task": "product_listing_generation",
+        "input_tokens": 292,
+        "output_tokens": 951,
+        "total_tokens": 1243
+    },
+    {
+        "timestamp_utc": "2026-04-27T07:42:24.519372+00:00",
+        "model": "gpt-5-mini",
+        "task": "product_listing_generation",
+        "input_tokens": 292,
+        "output_tokens": 1527,
+        "total_tokens": 1819
+    },
+    {
+        "timestamp_utc": "2026-04-27T07:42:33.107794+00:00",
+        "model": "gpt-5-mini",
+        "task": "product_listing_generation",
+        "input_tokens": 293,
+        "output_tokens": 995,
+        "total_tokens": 1288
+    },
+    {
+        "timestamp_utc": "2026-04-27T07:42:41.933880+00:00",
+        "model": "gpt-5-mini",
+        "task": "product_listing_generation",
+        "input_tokens": 293,
+        "output_tokens": 1080,
+        "total_tokens": 1373
+    },
+    {
+        "timestamp_utc": "2026-04-27T07:42:52.026422+00:00",
+        "model": "gpt-5-mini",
+        "task": "product_listing_generation",
+        "input_tokens": 293,
+        "output_tokens": 1199,
+        "total_tokens": 1492
+    },
+    {
+        "timestamp_utc": "2026-04-27T07:43:02.831987+00:00",
+        "model": "gpt-5-mini",
+        "task": "product_listing_generation",
+        "input_tokens": 301,
+        "output_tokens": 1341,
+        "total_tokens": 1642
+    },
+    {
+        "timestamp_utc": "2026-04-27T07:43:14.408805+00:00",
+        "model": "gpt-5-mini",
+        "task": "product_listing_generation",
+        "input_tokens": 301,
+        "output_tokens": 1340,
+        "total_tokens": 1641
+    },
+    {
+        "timestamp_utc": "2026-04-27T07:43:25.471594+00:00",
+        "model": "gpt-5-mini",
+        "task": "product_listing_generation",
+        "input_tokens": 291,
+        "output_tokens": 1184,
+        "total_tokens": 1475
+    },
+    {
+        "timestamp_utc": "2026-04-27T07:43:37.163469+00:00",
+        "model": "gpt-5-mini",
+        "task": "product_listing_generation",
+        "input_tokens": 291,
+        "output_tokens": 1284,
+        "total_tokens": 1575
+    },
+    {
+        "timestamp_utc": "2026-04-27T07:43:46.530175+00:00",
+        "model": "gpt-5-mini",
+        "task": "product_listing_generation",
+        "input_tokens": 291,
+        "output_tokens": 998,
+        "total_tokens": 1289
+    },
+    {
+        "timestamp_utc": "2026-04-27T07:43:55.630165+00:00",
+        "model": "gpt-5-mini",
+        "task": "product_listing_generation",
+        "input_tokens": 292,
+        "output_tokens": 1013,
+        "total_tokens": 1305
+    },
+    {
+        "timestamp_utc": "2026-04-27T07:44:03.821397+00:00",
+        "model": "gpt-5-mini",
+        "task": "product_listing_generation",
+        "input_tokens": 295,
+        "output_tokens": 1036,
+        "total_tokens": 1331
+    },
+    {
+        "timestamp_utc": "2026-04-27T07:44:11.972613+00:00",
+        "model": "gpt-5-mini",
+        "task": "product_listing_generation",
+        "input_tokens": 295,
+        "output_tokens": 889,
+        "total_tokens": 1184
+    },
+    {
+        "timestamp_utc": "2026-04-27T07:44:25.948346+00:00",
+        "model": "gpt-5-mini",
+        "task": "product_listing_generation",
+        "input_tokens": 295,
+        "output_tokens": 1316,
+        "total_tokens": 1611
+    },
+    {
+        "timestamp_utc": "2026-04-27T07:44:36.717745+00:00",
+        "model": "gpt-5-mini",
+        "task": "product_listing_generation",
+        "input_tokens": 296,
+        "output_tokens": 1229,
+        "total_tokens": 1525
+    },
+    {
+        "timestamp_utc": "2026-04-27T07:44:48.606564+00:00",
+        "model": "gpt-5-mini",
+        "task": "product_listing_generation",
+        "input_tokens": 296,
+        "output_tokens": 1243,
+        "total_tokens": 1539
+    },
+    {
+        "timestamp_utc": "2026-04-27T07:44:58.573188+00:00",
+        "model": "gpt-5-mini",
+        "task": "product_listing_generation",
+        "input_tokens": 296,
+        "output_tokens": 1172,
+        "total_tokens": 1468
+    },
+    {
+        "timestamp_utc": "2026-04-27T07:45:10.987147+00:00",
+        "model": "gpt-5-mini",
+        "task": "product_listing_generation",
+        "input_tokens": 292,
+        "output_tokens": 1402,
+        "total_tokens": 1694
+    },
+    {
+        "timestamp_utc": "2026-04-27T07:45:27.299767+00:00",
+        "model": "gpt-5-mini",
+        "task": "product_listing_generation",
+        "input_tokens": 292,
+        "output_tokens": 1405,
+        "total_tokens": 1697
+    },
+    {
+        "timestamp_utc": "2026-04-27T07:45:39.940973+00:00",
+        "model": "gpt-5-mini",
+        "task": "product_listing_generation",
+        "input_tokens": 292,
+        "output_tokens": 1476,
+        "total_tokens": 1768
+    },
+    {
+        "timestamp_utc": "2026-04-27T07:45:53.122504+00:00",
+        "model": "gpt-5-mini",
+        "task": "product_listing_generation",
+        "input_tokens": 294,
+        "output_tokens": 1365,
+        "total_tokens": 1659
+    },
+    {
+        "timestamp_utc": "2026-04-27T07:46:09.175507+00:00",
+        "model": "gpt-5-mini",
+        "task": "product_listing_generation",
+        "input_tokens": 294,
+        "output_tokens": 1533,
+        "total_tokens": 1827
+    },
+    {
+        "timestamp_utc": "2026-04-27T07:46:22.068591+00:00",
+        "model": "gpt-5-mini",
+        "task": "product_listing_generation",
+        "input_tokens": 294,
+        "output_tokens": 1507,
+        "total_tokens": 1801
+    },
+    {
+        "timestamp_utc": "2026-04-27T07:46:32.521892+00:00",
+        "model": "gpt-5-mini",
+        "task": "product_listing_generation",
+        "input_tokens": 295,
+        "output_tokens": 1063,
+        "total_tokens": 1358
+    },
+    {
+        "timestamp_utc": "2026-04-27T07:46:43.523126+00:00",
+        "model": "gpt-5-mini",
+        "task": "product_listing_generation",
+        "input_tokens": 295,
+        "output_tokens": 1252,
+        "total_tokens": 1547
+    },
+    {
+        "timestamp_utc": "2026-04-27T07:46:55.141474+00:00",
+        "model": "gpt-5-mini",
+        "task": "product_listing_generation",
+        "input_tokens": 295,
+        "output_tokens": 1294,
+        "total_tokens": 1589
+    },
+    {
+        "timestamp_utc": "2026-04-27T07:47:06.522835+00:00",
+        "model": "gpt-5-mini",
+        "task": "product_listing_generation",
+        "input_tokens": 295,
+        "output_tokens": 1249,
+        "total_tokens": 1544
+    },
+    {
+        "timestamp_utc": "2026-04-27T07:47:15.762883+00:00",
+        "model": "gpt-5-mini",
+        "task": "product_listing_generation",
+        "input_tokens": 295,
+        "output_tokens": 1276,
+        "total_tokens": 1571
+    },
+    {
+        "timestamp_utc": "2026-04-27T07:47:26.020597+00:00",
+        "model": "gpt-5-mini",
+        "task": "product_listing_generation",
+        "input_tokens": 293,
+        "output_tokens": 1121,
+        "total_tokens": 1414
+    },
+    {
+        "timestamp_utc": "2026-04-27T07:47:36.296848+00:00",
+        "model": "gpt-5-mini",
+        "task": "product_listing_generation",
+        "input_tokens": 293,
+        "output_tokens": 1185,
+        "total_tokens": 1478
+    },
+    {
+        "timestamp_utc": "2026-04-27T07:47:43.977259+00:00",
+        "model": "gpt-5-mini",
+        "task": "product_listing_generation",
+        "input_tokens": 292,
+        "output_tokens": 879,
+        "total_tokens": 1171
+    },
+    {
+        "timestamp_utc": "2026-04-27T07:47:53.653609+00:00",
+        "model": "gpt-5-mini",
+        "task": "product_listing_generation",
+        "input_tokens": 292,
+        "output_tokens": 1002,
+        "total_tokens": 1294
+    },
+    {
+        "timestamp_utc": "2026-04-27T07:48:05.667159+00:00",
+        "model": "gpt-5-mini",
+        "task": "product_listing_generation",
+        "input_tokens": 292,
+        "output_tokens": 1195,
+        "total_tokens": 1487
+    },
+    {
+        "timestamp_utc": "2026-04-27T07:48:17.355093+00:00",
+        "model": "gpt-5-mini",
+        "task": "product_listing_generation",
+        "input_tokens": 295,
+        "output_tokens": 1379,
+        "total_tokens": 1674
+    },
+    {
+        "timestamp_utc": "2026-04-27T07:48:29.417077+00:00",
+        "model": "gpt-5-mini",
+        "task": "product_listing_generation",
+        "input_tokens": 295,
+        "output_tokens": 1249,
+        "total_tokens": 1544
+    },
+    {
+        "timestamp_utc": "2026-04-27T07:48:42.889249+00:00",
+        "model": "gpt-5-mini",
+        "task": "product_listing_generation",
+        "input_tokens": 295,
+        "output_tokens": 1495,
+        "total_tokens": 1790
+    },
+    {
+        "timestamp_utc": "2026-04-27T07:48:52.495289+00:00",
+        "model": "gpt-5-mini",
+        "task": "product_listing_generation",
+        "input_tokens": 294,
+        "output_tokens": 1052,
+        "total_tokens": 1346
+    },
+    {
+        "timestamp_utc": "2026-04-27T07:49:04.152546+00:00",
+        "model": "gpt-5-mini",
+        "task": "product_listing_generation",
+        "input_tokens": 294,
+        "output_tokens": 1087,
+        "total_tokens": 1381
+    },
+    {
+        "timestamp_utc": "2026-04-27T07:49:17.273534+00:00",
+        "model": "gpt-5-mini",
+        "task": "product_listing_generation",
+        "input_tokens": 294,
+        "output_tokens": 1172,
+        "total_tokens": 1466
+    },
+    {
+        "timestamp_utc": "2026-04-27T07:49:28.559829+00:00",
+        "model": "gpt-5-mini",
+        "task": "product_listing_generation",
+        "input_tokens": 295,
+        "output_tokens": 1051,
+        "total_tokens": 1346
+    },
+    {
+        "timestamp_utc": "2026-04-27T07:49:44.295470+00:00",
+        "model": "gpt-5-mini",
+        "task": "product_listing_generation",
+        "input_tokens": 295,
+        "output_tokens": 1302,
+        "total_tokens": 1597
+    },
+    {
+        "timestamp_utc": "2026-04-27T07:49:55.615268+00:00",
+        "model": "gpt-5-mini",
+        "task": "product_listing_generation",
+        "input_tokens": 295,
+        "output_tokens": 1109,
+        "total_tokens": 1404
+    },
+    {
+        "timestamp_utc": "2026-04-27T07:50:09.461289+00:00",
+        "model": "gpt-5-mini",
+        "task": "product_listing_generation",
+        "input_tokens": 297,
+        "output_tokens": 1101,
+        "total_tokens": 1398
+    },
+    {
+        "timestamp_utc": "2026-04-27T07:50:23.020365+00:00",
+        "model": "gpt-5-mini",
+        "task": "product_listing_generation",
+        "input_tokens": 297,
+        "output_tokens": 1096,
+        "total_tokens": 1393
+    },
+    {
+        "timestamp_utc": "2026-04-27T07:50:37.238133+00:00",
+        "model": "gpt-5-mini",
+        "task": "product_listing_generation",
+        "input_tokens": 292,
+        "output_tokens": 1269,
+        "total_tokens": 1561
+    },
+    {
+        "timestamp_utc": "2026-04-27T07:50:48.876040+00:00",
+        "model": "gpt-5-mini",
+        "task": "product_listing_generation",
+        "input_tokens": 292,
+        "output_tokens": 985,
+        "total_tokens": 1277
+    },
+    {
+        "timestamp_utc": "2026-04-27T07:51:03.738206+00:00",
+        "model": "gpt-5-mini",
+        "task": "product_listing_generation",
+        "input_tokens": 292,
+        "output_tokens": 1355,
+        "total_tokens": 1647
+    },
+    {
+        "timestamp_utc": "2026-04-27T07:51:22.919457+00:00",
+        "model": "gpt-5-mini",
+        "task": "product_listing_generation",
+        "input_tokens": 295,
+        "output_tokens": 1788,
+        "total_tokens": 2083
+    },
+    {
+        "timestamp_utc": "2026-04-27T07:51:34.991255+00:00",
+        "model": "gpt-5-mini",
+        "task": "product_listing_generation",
+        "input_tokens": 295,
+        "output_tokens": 1050,
+        "total_tokens": 1345
+    },
+    {
+        "timestamp_utc": "2026-04-27T07:51:56.338634+00:00",
+        "model": "gpt-5-mini",
+        "task": "product_listing_generation",
+        "input_tokens": 295,
+        "output_tokens": 1390,
+        "total_tokens": 1685
+    },
+    {
+        "timestamp_utc": "2026-04-27T07:52:11.065694+00:00",
+        "model": "gpt-5-mini",
+        "task": "product_listing_generation",
+        "input_tokens": 294,
+        "output_tokens": 1062,
+        "total_tokens": 1356
+    },
+    {
+        "timestamp_utc": "2026-04-27T07:52:27.650999+00:00",
+        "model": "gpt-5-mini",
+        "task": "product_listing_generation",
+        "input_tokens": 294,
+        "output_tokens": 1113,
+        "total_tokens": 1407
+    },
+    {
+        "timestamp_utc": "2026-04-27T07:52:40.941023+00:00",
+        "model": "gpt-5-mini",
+        "task": "product_listing_generation",
+        "input_tokens": 296,
+        "output_tokens": 1305,
+        "total_tokens": 1601
+    },
+    {
+        "timestamp_utc": "2026-04-27T07:52:54.325484+00:00",
+        "model": "gpt-5-mini",
+        "task": "product_listing_generation",
+        "input_tokens": 296,
+        "output_tokens": 1139,
+        "total_tokens": 1435
+    },
+    {
+        "timestamp_utc": "2026-04-27T07:53:07.396440+00:00",
+        "model": "gpt-5-mini",
+        "task": "product_listing_generation",
+        "input_tokens": 296,
+        "output_tokens": 1101,
+        "total_tokens": 1397
+    },
+    {
+        "timestamp_utc": "2026-04-27T07:53:24.918094+00:00",
+        "model": "gpt-5-mini",
+        "task": "product_listing_generation",
+        "input_tokens": 291,
+        "output_tokens": 1509,
+        "total_tokens": 1800
+    },
+    {
+        "timestamp_utc": "2026-04-27T07:53:39.042888+00:00",
+        "model": "gpt-5-mini",
+        "task": "product_listing_generation",
+        "input_tokens": 291,
+        "output_tokens": 1213,
+        "total_tokens": 1504
+    },
+    {
+        "timestamp_utc": "2026-04-27T07:53:54.455713+00:00",
+        "model": "gpt-5-mini",
+        "task": "product_listing_generation",
+        "input_tokens": 291,
+        "output_tokens": 1228,
+        "total_tokens": 1519
+    },
+    {
+        "timestamp_utc": "2026-04-27T07:54:15.511163+00:00",
+        "model": "gpt-5-mini",
+        "task": "product_listing_generation",
+        "input_tokens": 296,
+        "output_tokens": 1378,
+        "total_tokens": 1674
+    },
+    {
+        "timestamp_utc": "2026-04-27T07:54:27.254810+00:00",
+        "model": "gpt-5-mini",
+        "task": "product_listing_generation",
+        "input_tokens": 296,
+        "output_tokens": 940,
+        "total_tokens": 1236
+    },
+    {
+        "timestamp_utc": "2026-04-27T07:54:49.308535+00:00",
+        "model": "gpt-5-mini",
+        "task": "product_listing_generation",
+        "input_tokens": 296,
+        "output_tokens": 1478,
+        "total_tokens": 1774
+    },
+    {
+        "timestamp_utc": "2026-04-27T07:55:03.283567+00:00",
+        "model": "gpt-5-mini",
+        "task": "product_listing_generation",
+        "input_tokens": 294,
+        "output_tokens": 1183,
+        "total_tokens": 1477
+    }
+]
